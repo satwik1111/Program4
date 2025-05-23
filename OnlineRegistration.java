@@ -21,6 +21,7 @@ class Student {
     };
 
     void displayInfo() {
+        System.out.println("Student Details");
         System.out.println("Student Name: " + name);
         System.out.println("Program: " + program);
         System.out.println("Semester: " + semester);
